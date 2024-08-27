@@ -1,0 +1,110 @@
+
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    height: 100vh;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+
+.titulo_bem_vindo {
+    color:blue;
+    font-size: 90px;
+}
+
+.sub_destaque {
+    color:royalblue;
+    font-size: 70px;
+}
+
+.como_usa {
+    color:dodgerblue;
+    font-size: 35px;
+
+}
+
+.apresentacao {
+    margin:5rlh;
+    display: flex;
+    justify-content: space-around;
+
+}
+.barra {
+    align-items: center;
+}
+
+
+.titulo_destaque {
+    font-size: 65px;
+}
+
+.botoens_acao {
+    display: flex;
+    justify-content:initial;
+    column-gap: 55px;
+    
+
+}
+
+
+.botao_de_criptografar {
+    color:rgb(0, 0, 0);
+    background-color:lightgrey;
+    width: 175px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10.5px;
+
+}
+.botao_de_copiar {
+    color:rgb(0, 0, 0);
+    background-color:lightgrey;
+    width: 175px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10.5px;
+    
+}
+.botao_de_descriptografar {
+    color:rgb(0, 0, 0);
+    background-color:lightgrey;
+    width: 175px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10.5px;
+}
+
+.area_de_digitar {
+    background-color:azure;
+    width: 600px;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 17.9px;
+
+}
+.resultado {
+    background-color:azure;
+    width: 600px;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 17.9px;
+}
+.regra {
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+
+
+.rodape {
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content:center;
+
+
+}
